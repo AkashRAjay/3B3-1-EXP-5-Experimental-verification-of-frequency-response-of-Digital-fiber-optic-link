@@ -128,7 +128,8 @@ not remove the cap from the connector. Once the cap is loosened, insert the one 
 cap. Now tighten the cap by screwing it back.
 ▪ Observe the detected signal at post TTL OUT on oscilloscope.
 # TABULATION:
-<img width="1523" height="1600" alt="image" src="https://github.com/user-attachments/assets/4aea81d1-4790-41f2-b634-7005c4d8c8c8" />
+![IMG_20260325_153231_1](https://github.com/user-attachments/assets/1013d3ea-2119-45ed-ad34-c762aaa8f4e4)
+
 
 # GRAPH:
 <img width="963" height="1279" alt="image" src="https://github.com/user-attachments/assets/e986ac0a-94d2-41db-94dd-94d9d1f08ab3" />
